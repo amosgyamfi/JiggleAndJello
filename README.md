@@ -9,4 +9,5 @@ Here, developers and designers can learn the animation and motion behind some of
 
 ## Clapping Hands <a href="https://gist.github.com/amosgyamfi/b5e4ee8d9015f394b933a887393fe2e9#file-clapping_hands_emoji-swift">Code</a>
 **Meaning**: Two hands clapping emoji, which when used multiple times can be used as a round of applause.
+
 ![Designing Basic, Keyframe & Group Animations](https://github.com/amosgyamfi/swiftui-animated-emojis-library/blob/main/clapping_hands.gif)
