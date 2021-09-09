@@ -1,6 +1,6 @@
 # SwiftUI Animated Emojis and Meaning Library
 
-Here, developers and designers can learn the animation and motion behind some of the most popular animated emojis found in Skype and Telegram. Or grab their favorite SwiftUI animated emojis code for their next project. 
+Here, developers and designers can learn the animation, motion and meaning behind some of the most popular animated emojis found in Skype and Telegram. Or grab their favorite SwiftUI animated emojis code for their next project. 
 
 **YouTube Tutorials: https://www.youtube.com/nimbbble**
 
