@@ -28,3 +28,9 @@ Here, developers and designers can learn the animation, motion and meaning behin
 
 <hr/>
 
+## Beating Heart: <a href="https://gist.github.com/amosgyamfi/98754f6f328b2c0cdd69d04933ec718c#file-beating_heart-swift">SwiftUI Code</a>
+**Meaning**: A heart with vibration / movement lines above it, indicating it is a beating heart. This emoji is intended to be used as a beating heart representing either life, or love.
+
+![Beating Heart](https://github.com/amosgyamfi/swiftui-animated-emojis-library/blob/main/Animated%20Emojis/beating_heart.gif)
+
+<hr/>
