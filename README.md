@@ -10,13 +10,14 @@ Here, developers and designers can learn the animation, motion and meaning behin
 ## Clapping Hands: <a href="https://gist.github.com/amosgyamfi/b5e4ee8d9015f394b933a887393fe2e9#file-clapping_hands_emoji-swift">SwiftUI Code</a>
 **Meaning**: Two hands clapping emoji, which when used multiple times can be used as a round of applause.
 
-![Designing Basic, Keyframe & Group Animations](https://github.com/amosgyamfi/swiftui-animated-emojis-library/blob/main/clapping_hands.gif)
+![Clapping Hands](https://github.com/amosgyamfi/swiftui-animated-emojis-library/blob/main/clapping_hands.gif)
+
 
 
 ## Revolving Hearts: <a href="https://gist.github.com/amosgyamfi/0525209537a5586b0403344732bdd8eb#file-revolving_hearts-swift">SwiftUI Code</a>
 **Meaning**: Hearts revolving around one or more other hearts. This emoji shows two hearts switching places, with a circular line simulating the action this would make.
 
-![Designing Basic, Keyframe & Group Animations](https://github.com/amosgyamfi/swiftui-animated-emojis-library/blob/main/Animated%20Emojis/revolving_hearts.gif)
+![Revolving Hearts](https://github.com/amosgyamfi/swiftui-animated-emojis-library/blob/main/Animated%20Emojis/revolving_hearts.gif)
 
 
 
