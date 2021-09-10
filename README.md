@@ -21,3 +21,10 @@ Here, developers and designers can learn the animation, motion and meaning behin
 
 <hr/>
 
+## Growing Hearts: <a href="https://gist.github.com/amosgyamfi/ea3c4346c73546495642f24be465265f#file-growing_hearts-swift">SwiftUI Code</a>
+**Meaning**: A pink or red heart, inside a slightly larger pink heart, inside a larger-again pink heart. Intended to give the impression of a heart increasing in size.
+
+![Growing Hearts](https://github.com/amosgyamfi/swiftui-animated-emojis-library/blob/main/Animated%20Emojis/growing_hearts.gif)
+
+<hr/>
+
