@@ -34,3 +34,17 @@ Here, developers and designers can learn the animation, motion and meaning behin
 ![Beating Heart](https://github.com/amosgyamfi/swiftui-animated-emojis-library/blob/main/Animated%20Emojis/beating_heart.gif)
 
 <hr/>
+
+## Sparkling Heart: <a href="https://gist.github.com/amosgyamfi/b2e65d173480cd379de825a83e925bc5#file-sparkling_heart-swift">SwiftUI Code</a>
+**Meaning**: A pink or red love heart with stars around it, making it look like it is sparkling or shimmering.
+
+![Sparkling Heart](https://github.com/amosgyamfi/swiftui-animated-emojis-library/blob/main/Animated%20Emojis/sparkling_heart.gif)
+
+<hr/>
+
+## Money with Wings: <a href="https://gist.github.com/amosgyamfi/e34d0e325345f4d471bf73e0928b4c43#file-money_with_wings-swift">SwiftUI Code</a>
+**Meaning**: A banded stack of U.S. dollar bills with feather wings, as if flying. Its flight may represent losing, transferring, or earning money, but commonly used for wealth, money, and success more generally, often with a flourish or sense of flair.
+
+![Money with Wings](https://github.com/amosgyamfi/swiftui-animated-emojis-library/blob/main/Animated%20Emojis/money_with_wings.gif)
+
+<hr/>
