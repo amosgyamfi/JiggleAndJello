@@ -19,5 +19,5 @@ Here, developers and designers can learn the animation, motion and meaning behin
 
 ![Revolving Hearts](https://github.com/amosgyamfi/swiftui-animated-emojis-library/blob/main/Animated%20Emojis/revolving_hearts.gif)
 
-
+<hr/>
 
