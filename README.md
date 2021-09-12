@@ -48,3 +48,11 @@ Here, developers and designers can learn the animation, motion and meaning behin
 ![Money with Wings](https://github.com/amosgyamfi/swiftui-animated-emojis-library/blob/main/Animated%20Emojis/money_with_wings.gif)
 
 <hr/>
+
+## Raised Hand: <a href="https://gist.github.com/amosgyamfi/b336959d98e8173c9c98913d05d560df#file-raised_hand-swift">SwiftUI Code</a>
+**Meaning**:A hand held up showing its palm. May be used to mean stop, or as a high-five.
+
+![Raised Hand](https://github.com/amosgyamfi/swiftui-animated-emojis-library/blob/main/Animated%20Emojis/raised_hand.gif)
+
+<hr/>
+
