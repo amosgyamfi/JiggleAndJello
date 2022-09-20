@@ -1,5 +1,5 @@
 # Fluent in Motion 
-## SwiftUI animated emojis and meaning using ![Fluent Emojis](https://github.com/microsoft/fluentui-emoji)
+## SwiftUI animated emojis and meaning using [Fluent Emojis](https://github.com/microsoft/fluentui-emoji)
 
 Here, developers and designers can learn the animation, motion and meaning behind some of the most popular animated emojis found in Skype and Telegram. Or grab their favorite SwiftUI animated emojis code for their next project. I am updating this repo by creating animated versions on 
 
