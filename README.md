@@ -5,8 +5,8 @@
 # Animation Types
 
 ## One-off Animations
-- **Fall and Bounce**
-- **Dock Bounce**
+- **Fall and Bounce** | [Copy SwiftUI code]()
+- **Dock Bounce** | [Copy SwiftUI code]()
 - **Pulsate**
 - **Hit Left**
 - **Hit Right**
