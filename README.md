@@ -22,7 +22,7 @@
 ## Pop Exit Animations
 - **Pop Out**
 - **Pop Out Left**
-- **SPop Out Right**
+- **Pop Out Right**
 - **Pop Out Top**
 - **Pop Out Bottom**
 
