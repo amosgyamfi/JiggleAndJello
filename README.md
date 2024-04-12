@@ -5,34 +5,127 @@
 # Animation Types
 
 ## One-off Animations
-- **Fade In**
-- **Fade Out**
-- **Slide In**
-- **Slide Out**
-- **Zoom In**
-- **Zoom Out**
+- **Fall and Bounce**
+- **Dock Bounce**
+- **Pulsate**
+- **Hit Left**
+- **Hit Right**
+- **Shake**
 
 ## Pop Enter Animations
-- **Bounce**
-- **Flip**
-- **Scale Up**
-- **Slide Up**
-- **Zoom In**
+- **Pop In**
+- **Pop In Left**
+- **Pop In Right**
+- **Pop In Top**
+- **Pop In Bottom**
 
 ## Pop Exit Animations
-- **Bounce**
-- **Flip**
-- **Scale Down**
-- **Slide Down**
-- **Zoom Out**
+- **Pop Out**
+- **Pop Out Left**
+- **SPop Out Right**
+- **Pop Out Top**
+- **Pop Out Bottom**
 
-## Continuous Animations
-- **Rotate**
-- **Pulse**
-- **Shake**
-- **Wiggle**
-- **Spin**
+## Flip Animations
+- **Flip**
+- **Flip X**
+- **Flip Y**
+- **Flip Out X**
+- **Flip Out Y**
 
 ---
 
- 
+## Jump Animations
+- **Jump In Left**
+- **Jump In Right**
+- **Jump Out Left**
+- **Jump Out Right**
+
+---
+
+## Swoop Enter Animations
+- **Swoop In Left**
+- **Swoop In Right**
+- **Swoop In Top**
+- **Swoop In Bottom**
+
+---
+
+## Swoop Exit Animations
+- **Swoop Out Left**
+- **Swoop Out Right**
+- **Swoop Out Top**
+- **Swoop Out Bottom**
+
+---
+
+## Drive Enter Animations
+- **Drive In Left**
+- **Drive In Right**
+- **Drive In Top**
+- **Drive In Bottom**
+
+---
+
+## Drive Exit Animations
+- **Drive Out Bottom**
+- **Drive Out Top**
+- **Drive Out Left**
+- **Drive Out Right**
+
+---
+
+## Fade Enter Animations
+- **Fade In**
+- **Fade In Left**
+- **Fade In Right**
+- **Fade In Top**
+- **Fade In Bottom**
+
+---
+
+## Fade Exit Animations
+- **Fade Out**
+- **Fade Out Left**
+- **Fade Out Right**
+- **Fade Out Top**
+- **Fade Out Bottom**
+
+---
+
+## Roll Enter Animations
+- **Roll In Left**
+- **Roll In Right**
+- **Roll In Top**
+- **Roll In Bottom**
+
+---
+
+## Roll Out Animations
+- **Roll Out Left**
+- **Roll Out Right**
+- **Roll Out Top**
+- **Roll Out Bottom**
+
+---
+
+## Spin Animations
+- **Spin**
+- **Spin In**
+- **Spin Out**
+
+---
+
+## Pull Animations
+- **Pull Up**
+- **Pull Down**
+- **Pull Left**
+- **Pull Right**
+
+---
+
+## Fold Animations
+- **Fold**
+- **Unfold**
+
+---
