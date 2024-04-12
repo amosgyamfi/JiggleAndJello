@@ -1,8 +1,8 @@
-**INSTALL NOTHING**. Copy/paste pure and simple SwiftUI motion effects for your projects and apps. Check out the Xcode project and grab your favorite animation or motion effect from over 100 options. 😊🎨
+# Open SwiftUI Motion Effects
+
+**INSTALL NOTHING**. Copy/paste pure and simple SwiftUI motion effects for your projects and apps. Easily customize animation parameters to match your taste. Check out the Xcode project and grab your favorite animation or motion effect from over 100 options. 😊🎨
 
 ---
-
-# Animation Types
 
 ## One-off Animations
 - **Fall and Bounce** | [Copy SwiftUI code]()
