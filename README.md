@@ -1,4 +1,5 @@
-# Open SwiftUI Motion Effects
+# JiggleAndJello
+## Open SwiftUI Motion Effects
 
 **INSTALL NOTHING**. Copy/paste pure and simple SwiftUI motion effects for your projects and apps. Easily customize animation parameters to match your taste. Check out the Xcode project and grab your favorite animation or motion effect from over 100 options. This repo also helps you understand how to animate nearly all SwiftUI properties. Enjoy 😋.
 
