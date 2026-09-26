@@ -8,3 +8,7 @@ Each animation is unique and carries meaning about its text. The animations invo
 
 Grab any of the SwiftUI animations, use it as it is, or modify it to suit your needs. If you find them useful, you could consider and [Buy Me a Coffee](https://buymeacoffee.com/amosgyamfi) or tip me on [Ko-fi](https://ko-fi.com/amosgyamfi).
 
+## License
+
+Released under the [MIT License](LICENSE). You're free to use, copy, modify, and distribute the animations, including in commercial apps; just keep the copyright and license notice.
+
