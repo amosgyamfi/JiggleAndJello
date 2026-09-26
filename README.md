@@ -1,4 +1,4 @@
-# 184 free and open-source SwiftUI Agent Thinking Text Animations. 
+# 184 Free and Open-Source SwiftUI Agent Thinking Text Animations. 
 
 ![agent_thinking_text_animations1](agent_thinking_text_animations1.gif)
 
