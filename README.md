@@ -1,4 +1,4 @@
-#184 free and open-source SwiftUI Agent Thinking Text Animations. 
+# 184 free and open-source SwiftUI Agent Thinking Text Animations. 
 
 Each animation is unique and carries meaning about its text. The animations involve scale, color, opacity, hue rotation, 3-D rotation, perspective, masking, and more. I built the animations for **Accomplishing** and **Actioning** and asked Opus 5.5 to create the rest uniquely. 
 
